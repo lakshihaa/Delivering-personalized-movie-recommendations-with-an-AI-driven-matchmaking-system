@@ -1,4 +1,4 @@
-# Delivering-personalized-movie-recommendations-with-an-AI-driven-matchmaking-system
+
 # 🎬 AI Movie Recommendation System
 
 An intelligent movie recommender system built using **collaborative filtering**, **content-based filtering**, and an interactive UI with **Streamlit**.
